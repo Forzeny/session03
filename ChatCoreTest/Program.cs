@@ -34,7 +34,7 @@ namespace ChatCoreTest
 			m_chatClient.SendData(m_PacketData);
 
 			m_chatClient.Disconnect();
-			//Console.ReadLine();
+			Console.ReadLine();
 
 		}
 
